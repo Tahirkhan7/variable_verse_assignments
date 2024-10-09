@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+
+.btn {
+  background-color: aqua;
+  width: 30%;
+  height: 30px;
+}
+
+#spn {
+  display: block;
+  background-color: bisque;
+  margin: 40px 0px;
+}
+
+.div {
+  display: inline;
+  padding: 20px;
+  background-color: yellow;
+}
